@@ -1,4 +1,4 @@
-# Easy Keras Yolo V3
+# Schistosoma Mansoni Eggs Detector
 
 ## Test platform
 
@@ -6,8 +6,7 @@
 
 
 ## Introduction
-This repo is intended for purely training your own dataset of detection.
-And this repo is mainly based on [qqwweee/keras-yolo3](https://github.com/qqwweee/keras-yolo3).
+This repo is based on [qqwweee/keras-yolo3](https://github.com/qqwweee/keras-yolo3).
 
 ## Prepare own dataset
 
